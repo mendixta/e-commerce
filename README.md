@@ -23,14 +23,10 @@ In order to run the E-Commerce App, you must follow the following steps:
     - Then, enter "source db/schema.sql"/navigate to where your schema.sql file is, the following should come up after successfully sourcing your file. 
     - Then, quit MySQL, by typing "quit" or "exit" in the command line
     - Then npm run seeds by typing "npm run seeds" in the command line, which will give you the following prompt:
+![screenshot-terminal-1](https://user-images.githubusercontent.com/87496972/140557492-621b4757-d1c1-4ec3-9ce6-9008e8ec9d8b.png)
 
-
-
-    - Finally, run node server.js file by typing "node server.js" into the command line and you should get the following:
-
-
-
-
+   - Finally, run node server.js file by typing "node server.js" into the command line and you should get the following:
+![screenshot-terminal-2](https://user-images.githubusercontent.com/87496972/140557531-17f82481-17b3-49fc-a00d-e1680cd77592.png)
 
 A video of a detailed walk through is provided below!
 
